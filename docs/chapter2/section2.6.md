@@ -40,8 +40,6 @@
 
 下面这篇语料出自1997年杨焕典《南宁话音档》的「北风跟太阳」，分别用官话白话文与粤语白话文来书写，[**此处**](https://www.bilibili.com/audio/au749077)给出用南宁白话来直读粤语白话文的例子。
 
-%accordion%列表%accordion%
-
 ![](http://wx4.sinaimg.cn/mw690/69144085ly1g1pehmo29bj20gw08h3yt.jpg)
 
 ![](http://wx3.sinaimg.cn/mw690/69144085ly1g1pehn5cxyj20h607aq3a.jpg)
@@ -51,8 +49,6 @@
 ![](http://wx4.sinaimg.cn/mw690/69144085ly1g1pehlswmtj20hr0tojt9.jpg)
 
 ![](http://wx2.sinaimg.cn/mw690/69144085ly1g1pehma3dlj20gn0kzjsh.jpg)
-
-%/accordion%
 
 ### 如何看待读书音
 
@@ -73,8 +69,6 @@
 粤语的白读（口语音）代表着历史，而文读（读书音）代表着现代化，而对于所受方言教育不足的人，如何使用读书音是困难的。
 
 例如上述举出的例子：
-
-> [!TIP|style:flat]
 
 > 「坎坷」
 
@@ -107,9 +101,7 @@
 
 再举一些其他的例子，如何使用读书音完整读一段文本，以此展现读书音的强大威力，为了不让文章过长，以下只用粤拼广州音标注。
 
-** 新闻报道：**
-
-> [!EXAMPLE]
+**新闻报道：**
 
 > 据中国科技网8月3日报道，3日06点41分，随着一声巨响，
 
@@ -128,9 +120,7 @@
 > ci2 geoi2 biu1 zi3 zoek6 sing1 hung1 - ji6 fo2 zin3 fei1 hang4 si3 jim6 jyun4 mun5 sing4 gung1，sat6 jin6 liu5 “gwok3 noi6 dai6 jat1 sing4 bo1 tai2” dik1 fei1 hang4 zong3 geoi2。
 
 
-** 歌词：**
-
-> [!EXAMPLE]
+**歌词：**
 
 > 难念的经 - 周华健
 
@@ -213,9 +203,7 @@
 > taam1 fun1 jat1 hak1 pin1 gaau3 naa5 neoi5 ji4 cing4 coeng4 maai4 zong3
 
 
-** 学术文章：**
-
-> [!EXAMPLE]
+**学术文章：**
 
 > 当多齿配合体中的多个配位原子同时和中心离子键合时，可形成具有环状结构的配合物称螯合物。
 
@@ -256,8 +244,6 @@
 
 在[2011年邓小琴《粤方言书面化及其历史演变研究》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2016&filename=1016004514.nh&v=MjM5MzJGQ3JsVXJyS1ZGMjZHTE80R3RUTnE1RWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlkrWnU=)的论文中归纳了一份很完整的字表可以作为参考。
 
-%accordion%列表%accordion%
-
 ![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocaaybt7j20sr18tjxs.jpg)
 
 ![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocabwgyoj20so19dtfb.jpg)
@@ -279,8 +265,6 @@
 ![](http://wx3.sinaimg.cn/mw690/69144085ly1g1ocajb6acj20s3195tey.jpg)
 
 ![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocajo1mqj20s60ohn0p.jpg)
-
-%/accordion%
 
 ## 粤语的现代化
 

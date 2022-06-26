@@ -1,13 +1,11 @@
 
-![logo](_media/icon.svg)
+# 南宁白话小册子 <small>3.0.0</small>
 
-# docsify <small>3.5</small>
+> 一个私人笔记文档文摘记录（相当于API）。
 
-> 一个神奇的文档网站生成器。
+- 快速入门最简单的基础知识
+- 快速查询拼音方案和常用工具
+- 快速查询常用参考文献
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/leimaau/myBook)
+[Get Started](#南宁白话小册子)

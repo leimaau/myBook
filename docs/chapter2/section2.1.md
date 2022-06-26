@@ -2,13 +2,9 @@
 
 ## 南宁白话语音
 
-%accordion%列表%accordion%
-
 ![](http://wx3.sinaimg.cn/large/69144085gy1fyw8zci0edj20o30w3wli.jpg)
 
 ![](http://wx1.sinaimg.cn/large/69144085gy1fyw8zd5xtkj20np0e2gne.jpg)
-
-%/accordion%
 
 **参考资料：**
 
@@ -30,7 +26,7 @@
 
 ![](http://wx1.sinaimg.cn/large/69144085gy1fytrsnislij20w004rdg0.jpg)
 
-为了方便初学者学习，简化版的拼音方案可以参见[**这里**](https://leimaau.github.io/book/PHONETICIZE.html)。
+为了方便初学者学习，简化版的拼音方案可以参见[这里](https://leimaau-webdict3.vercel.app/posts/PHONETICIZE)。
 
 ## 一些说明
 

@@ -259,7 +259,6 @@
 
 ## 注音举例
 
-> [!EXAMPLE]
 > 
 > [mo⁵³ wai⁵⁵ wa⁵⁵ tʃeŋ²¹ tʃy²² tʃʰyt³ ki⁵⁵ ki²² ɬɐt² tek³ ki⁵³ pun³³ kʰai⁵⁵ nim²²]
 > 

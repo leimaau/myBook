@@ -10,9 +10,7 @@
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fyw7lbnygdj20o215b7aa.jpg)
 
-关于各个字所对应的页码数据可以在[**狸猫的在线辞典**](https://leimaau.github.io/leimaau-webdict2/)中查询，根据笔者的校对，需要注意的是以下这些字：
-
-%accordion%列表%accordion%
+关于各个字所对应的页码数据可以在[狸猫的在线辞典](https://leimaau-webdict3.vercel.app/)中查询，根据笔者的校对，需要注意的是以下这些字：
 
 繁体 | 简体 | IPA | 粤拼 | 页码 | 勘误
 ---|---|---|---|---|---
@@ -57,8 +55,6 @@
 哄 | 哄 | hoŋ22 | hung6 | P817 | 原文誤作[koŋ22]。
 鬨 | 哄 | hoŋ22 | hung6 | P817 | 原文誤作[koŋ22]。
 篤 | 笃 | tok5 | duk1 | P817 | 原文誤作[tok2]。
-
-%/accordion%
 
 ### 词汇查询
 

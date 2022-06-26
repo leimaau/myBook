@@ -1,17 +1,14 @@
 
-* 入门
+* 快速入门
 
-  * [快速开始](zh-cn/quickstart.md)
-  * [多页文档](zh-cn/more-pages.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
+  * [南宁白话拼音方案〔市区音〕](PHONETICIZE.md)
+  * [南宁平话拼音方案〔亭子音〕](PHONETICIZE_bingwaa.md)
+  * [与广州话的区别](chapter2/section2.2.md)
+  * [参考资料](REFERENCES.md)
+  * [旧版地址](https://leimaau.github.io/book/)
 
 
-* 配置
-  * [配置项](zh-cn/configuration.md)
-  * [主题](zh-cn/themes.md)
-  * [使用插件](zh-cn/plugins.md)
-  * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md)
-  * [:us:, :uk:](/)
-  * [:cn:](/zh-cn/)
+* 快速工具
+  * [leimaau-webdict3](https://leimaau-webdict3.vercel.app/)
+  * [南宁话输入方案](https://github.com/leimaau/naamning_jyutping)
+  * [南宁话快速查询手册](https://github.com/leimaau/Nanning-Dialect-Manual)

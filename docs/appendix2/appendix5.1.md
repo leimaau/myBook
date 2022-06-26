@@ -148,7 +148,7 @@
 
 ![](https://leimaau.github.io/CDN/data-store/historyData/laudaancing2.jpg)
 
-** 参考文献 **
+**参考文献**
 
 陈燕玲 林华东 2011 闽南方言的现状与未来，《东南学术》第4期。
 

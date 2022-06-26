@@ -1,4 +1,4 @@
-# [Nanning Dialect Booklet | 南宁白话小册子](https://leimaau.github.io/book/)
+# 南宁白话小册子
 
 [![Build Status](https://travis-ci.org/leimaau/book.svg?branch=master)](https://travis-ci.org/leimaau/book) ![npm](https://img.shields.io/npm/v/npm.svg) ![GitHub](https://img.shields.io/github/license/leimaau/book.svg)
 
@@ -13,7 +13,7 @@
 
 【西蒙·斯塔伦海格 (Simon Stålenhag)-《电幻国度》(The Electric State)】
 
-打开网页缓慢时的备用地址：[**这里**](https://leimaau.gitee.io/book/)
+打开网页缓慢时的备用地址(同时也是新版地址)：[这里](https://leimaau.github.io/myBook/)
 
 <!--
 [**这里**](https://leimaau.gitbooks.io/nnbh/content/)
