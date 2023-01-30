@@ -12,7 +12,7 @@
 
 ### 声母
 
-<table style="width:1px; white-space:nowrap; text-align:center;">
+<table>
   <tr>
 	<td><span style="font-size:2em;">b</span> [p] 波</td>
 	<td><span style="font-size:2em;">p</span> [pʰ] 破</td>
@@ -56,7 +56,7 @@
 
 ### 韵腹
 
-<table style="width:1px; white-space:nowrap; text-align:center;">
+<table>
   <tr>
 	<td><span style="font-size:2em;">aa</span> [aː] 沙</td>
 	<td><span style="font-size:2em;">a</span> [ɐ] 新</td>
@@ -76,7 +76,7 @@
 
 ### 韵尾
 
-<table style="width:1px; white-space:nowrap; text-align:center;">
+<table>
   <tr>
 	<td><span style="font-size:2em;">p</span> [-p̚] 湿</td>
 	<td><span style="font-size:2em;">t</span> [-t̚] 失</td>
@@ -98,7 +98,7 @@
 
 ### 鼻音单独成韵
 
-<table style="width:1px; white-space:nowrap; text-align:center;">
+<table>
   <tr>
 	<td><span style="font-size:2em;">m</span> [m̩] 唔</td>
 	<td><span style="font-size:2em;">ng</span> [ŋ̍] 吴</td>
@@ -107,7 +107,7 @@
 
 ### 字调
 
-<table style="width:1px; white-space:nowrap; text-align:center;">
+<table>
   <tr>
 	<td></td>
 	<td><span style="font-size:2em;">平</span></td>
@@ -128,7 +128,7 @@
   </tr>
 </table>
 
-<table style="width:1px; white-space:nowrap; text-align:center;">
+<table>
   <tr>
 	<td><span style="font-size:2em;">上阴入</span></td>
 	<td><span style="font-size:2em;">下阴入</span></td>
@@ -146,7 +146,7 @@
 
 ### 韵母字例
 
-<table style="width:1px; white-space:nowrap; text-align:center;">
+<table>
   <tr>
 	<td><span style="font-size:2em;">aa</span><br/>[aː]<br/>渣</td>
 	<td><span style="font-size:2em;">aai</span><br/>[aːi]<br/>斋</td>
