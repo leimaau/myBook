@@ -60,6 +60,8 @@
 
 例如上述举出的例子：
 
+> [!TIP|style:flat]
+
 > 「坎坷」
 
 > 广州话：ham1 ho1 | 南宁白话：ham1 ho1 或 ham2 ho2
@@ -91,7 +93,9 @@
 
 再举一些其他的例子，如何使用读书音完整读一段文本，以此展现读书音的强大威力，为了不让文章过长，以下只用粤拼广州音标注。
 
-**新闻报道：**
+** 新闻报道：**
+
+> [!EXAMPLE]
 
 > 据中国科技网8月3日报道，3日06点41分，随着一声巨响，
 
@@ -110,7 +114,9 @@
 > ci2 geoi2 biu1 zi3 zoek6 sing1 hung1 - ji6 fo2 zin3 fei1 hang4 si3 jim6 jyun4 mun5 sing4 gung1，sat6 jin6 liu5 “gwok3 noi6 dai6 jat1 sing4 bo1 tai2” dik1 fei1 hang4 zong3 geoi2。
 
 
-**歌词：**
+** 歌词：**
+
+> [!EXAMPLE]
 
 > 难念的经 - 周华健
 
@@ -193,7 +199,9 @@
 > taam1 fun1 jat1 hak1 pin1 gaau3 naa5 neoi5 ji4 cing4 coeng4 maai4 zong3
 
 
-**学术文章：**
+** 学术文章：**
+
+> [!EXAMPLE]
 
 > 当多齿配合体中的多个配位原子同时和中心离子键合时，可形成具有环状结构的配合物称螯合物。
 
@@ -263,5 +271,20 @@
 一首歌曲的创作一般分**先填词后作曲**和**先作曲后填词**两种，我们会发现，一首国语歌如果按照粤音一字一句地唱出来会不符合音律，这是因为国语歌的词曲配合是押国语的韵，对于先填词后作曲的国语歌，曲子在创作完成时就配合好了词中国语的声调，对于先作曲后填词的国语歌，词在创作完成时是以普通话的调来配合曲子。粤语与国语的音系差别太大，如果简单地转为粤语吟唱，那么在押韵与声调上就无法配合乐曲的音高，我们把唱起来不符合音乐曲调的音叫做**拗音**，而把唱起来能够配合音乐曲调的音叫做**协音**。
 
 对着国语填好的歌词如果直接用粤音唱通常会遇到大量的「拗音」，我们要尽量避免「拗音」，这就需要重新填词，用粤语重新给曲子填词叫**粤语填词**，这也就是为什么许多国语歌翻唱为粤语版的时候不会沿用原来的歌词而是新创作歌词的原因。而对于新创作的粤语歌，也是要经过「粤语填词」的过程。粤语填词要处理好粤音与曲音的和谐，根据旋律搭配合适的词，所以我们在创作粤语歌的时候既要对**基本乐理知识**熟悉也要对**粤语的押韵系统**熟悉，否则是无法创作出好的歌曲的。
+
+这里我们简要介绍一下香港乐评人黄志华在《粤语歌词创作谈》中提出的「0243填词法」，下面以香港粤语举例。
+
+IPA所用的五度标记法标记的是汉语声调的相对音高，不能直接等同于音乐上基本音级（do、re、mi、fa、sol、la、si）中的任意五个，但是仔细观察粤语的声调：零4[11]、一1[5]、二6[22]、三1[55]、四3[33]、五5[13]、六6[2]、七1[1]、八3[3]、九2[35]，声调末尾调值相同的可以看作一类，按音高可将它们分为四类。
+
+音高 | 粤拼调值[IPA调值] | 汉语数字示例 | 汉语非数字示例
+---|---|---
+高音 | 1[55/5]、2[35] | 三、一、七、九 | 风、光、山、水、刻、骨...
+中高音 | 3[33/3]、5[13] | 四、八、五 | 爱、要、有、你、我、创、作...
+中低音 | 6[22/2] | 二、六 | 上、下、日、夜、热、闹...
+低音 | 4[11] | 零 | 来、回、完、全、迷、人...
+
+这就把所有的汉字按对应的粤语调值分为了低、中低、中高、高四类，只要把一首歌的每个小节分成这四种音高，按照其音高走向将所需要的用字填入即可完成填词，本质上是用这四个音高来匹配音乐。填词时可以先填汉语数字零二四三，后再改成合适的汉字，以汉语数字零二四三的发音作代表，故称为「0243填词法」。
+
+从演唱者的角度出发，演唱技巧上同一个声调是可以上下调整的（微调），用以适配一首歌曲。这只是初步的入门，在此基础上还有「02493填词」、「025493填词」等更严谨的变体，歌词中的押韵也要尽量追求主元音相近，韵尾相近的特点，这对流行歌曲来说足够使用了，不必追求古诗词那样严格的格律要求。
 
 [粵語歌曲填詞法](http://lyrics.mrpinyin.net/) | [粵語流行曲拗音問題初探](http://www.doc88.com/p-9572334074600.html) | [粤语流行歌词研究](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD2007&filename=2007042070.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MzE4NDdmYitkdkZpdmtWYnZCVjEyN0diTzhITkhMcjVFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEs=) | [试论中国流行歌曲演唱风格特征的阶段性演变](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD2011&filename=1011167810.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDAwNDFyQ1VSTEtmYitkdkZpdmtVcnJCVkYyNkg3SytHZG5OcjVFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=) | [粤语声调与降势音高](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=YYKE201702007&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDAyMDR1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZiK2R2Rml2a1ZyM0JQRFRBYTdHNEg5Yk1yWTlGWTRSOGVYMUw=) | [古诗词谱曲的字调与歌腔关系探析——以黄沾粤语歌曲《有谁知我此时情》为例](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2014&filename=GDMZ201401010&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTM4MzRxVHJXTTFGckNVUkxLZmIrZHZGaXZrVTcvTElpbkdkTEc0SDlYTXJvOUVaSVI4ZVgxTHV4WVM3RGgxVDM=) | [试论粤语美声唱法的实践教学——以歌曲《生死相依我苦恋着你》为例](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2009&filename=YYTD200909049&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=Mjc5MDc0SHRqTXBvOUJiWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZmIrZHZGaWpoVzdyTVBEVGZhckc=) | [粤语歌曲·语言·电脑漫笔](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD8589&filename=XHYY198602003&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTQ1MjRkN0t4RnRmTXJZOUZaNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZmIrZHZGaWpoVzd6SlBTWFM=) | [粤语吟诵的自然发声方法探索研究--以珠三角地区的粤语吟诵为例](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201501&filename=1014052745.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTg0NjdmYitkdkZpdmtXcnZMVkYyNkdyTzlITmJJcXBFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEs=) | [浅析粤语吟诵发展历史及粤语吟诵方法](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2014&filename=PPLL201408072&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDExOTVsVXIvQU5UM0hZckc0SDlYTXA0OUNab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZmIrZHZGaXY=) | [粤语流行歌词研究](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD2007&filename=2007042070.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MzE4NDdmYitkdkZpdmtWYnZCVjEyN0diTzhITkhMcjVFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEs=) | [广府南音的曲体分析与即唱教学设计](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201801&filename=1017082764.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjI1MTViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZiK2R2Rml2blVyM09WRjI2R2JPd0hOYktxNUU=) | [粤语音韵研究](http://www.doc88.com/p-579467732276.html) | [香港粤语塞擦音、擦音声母的音变考察——以三十年来香港粤语歌词为例](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=JNXB201006020&v=MDkyOTlNTHlQVGJMRzRIOUhNcVk5SFpJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmWk9abkZDdmdXN3o=)
