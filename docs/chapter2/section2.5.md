@@ -136,7 +136,9 @@
 
 > 谢建猷.《广西汉语方言研究》.2007.
 
+<!--
 以此为基础创制的拼音方案可以参见[**这里**](https://leimaau.github.io/book/PHONETICIZE_waanghyun.html)。
+-->
 
 ## 疍家口音
 
